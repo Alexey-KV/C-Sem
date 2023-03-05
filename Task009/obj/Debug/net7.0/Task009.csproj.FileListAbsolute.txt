@@ -1,0 +1,15 @@
+C:\GB\VvPrgLang\CSharpSem\Task009\bin\Debug\net7.0\Task009.exe
+C:\GB\VvPrgLang\CSharpSem\Task009\bin\Debug\net7.0\Task009.deps.json
+C:\GB\VvPrgLang\CSharpSem\Task009\bin\Debug\net7.0\Task009.runtimeconfig.json
+C:\GB\VvPrgLang\CSharpSem\Task009\bin\Debug\net7.0\Task009.dll
+C:\GB\VvPrgLang\CSharpSem\Task009\bin\Debug\net7.0\Task009.pdb
+C:\GB\VvPrgLang\CSharpSem\Task009\obj\Debug\net7.0\Task009.csproj.AssemblyReference.cache
+C:\GB\VvPrgLang\CSharpSem\Task009\obj\Debug\net7.0\Task009.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\VvPrgLang\CSharpSem\Task009\obj\Debug\net7.0\Task009.AssemblyInfoInputs.cache
+C:\GB\VvPrgLang\CSharpSem\Task009\obj\Debug\net7.0\Task009.AssemblyInfo.cs
+C:\GB\VvPrgLang\CSharpSem\Task009\obj\Debug\net7.0\Task009.csproj.CoreCompileInputs.cache
+C:\GB\VvPrgLang\CSharpSem\Task009\obj\Debug\net7.0\Task009.dll
+C:\GB\VvPrgLang\CSharpSem\Task009\obj\Debug\net7.0\refint\Task009.dll
+C:\GB\VvPrgLang\CSharpSem\Task009\obj\Debug\net7.0\Task009.pdb
+C:\GB\VvPrgLang\CSharpSem\Task009\obj\Debug\net7.0\Task009.genruntimeconfig.cache
+C:\GB\VvPrgLang\CSharpSem\Task009\obj\Debug\net7.0\ref\Task009.dll
